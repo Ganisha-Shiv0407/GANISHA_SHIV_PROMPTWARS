@@ -1,0 +1,6 @@
+{
+  "name": "THE BLIND SPOT",
+  "description": "See What You’re Missing Before You Decide. An intelligent decision-reflection and reasoning platform that uncovers hidden assumptions, contradictions, and overlooked factors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
